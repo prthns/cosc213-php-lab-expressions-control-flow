@@ -1,14 +1,14 @@
 Course: COSC 213
+
 Lab Folder: /lab4/
+
 Lab Title: Lab 6
-Author: Ralph Juliano, Christy VK, Tatsuki Sugawara 
+
+Author: -------------------------
+
 Date: October 2025
 
-Course: COSC 213
-Author: Ralph Juliano
-
 Overview
-
 This lab demonstrates core PHP programming concepts such as expressions, branching (conditional statements), and loops. The final part combines all concepts into a small “Student Toolkit” web application that dynamically renders different sections based on user input.
 
 Folder Structure
