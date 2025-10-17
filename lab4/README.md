@@ -1,7 +1,7 @@
 Course: COSC 213
 Lab Folder: /lab4/
 Lab Title: Lab 6
-Author: Ralph Juliano, Christy VK, Tatsuki Sugawara
+Author: Ralph Juliano, Christy VK, Tatsuki Sugawara 
 Date: October 2025
 
 Course: COSC 213
@@ -30,9 +30,13 @@ php -S localhost:8000
 
 Open your browser and visit:
 http://localhost:8000/01_expressions.php
+
 http://localhost:8000/02_branching.php?role=editor&day=Sun&code=404
+
 http://localhost:8000/03_loops.php
+
 http://localhost:8000/04_grade_form/
+
 http://localhost:8000/05_toolkit/
 
 Summary of Parts
