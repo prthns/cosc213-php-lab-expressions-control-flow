@@ -43,12 +43,16 @@ Summary of Parts
 
 Part 1 — Expressions
 Demonstrates PHP arithmetic, concatenation, comparison (== vs ===), ternary, and null-coalescing operators.
+
 Part 2 — Branching
 Uses if, elseif, else, switch, and match to create conditional logic based on query parameters.
+
 Part 3 — Loops
 Shows for, while, do...while, and foreach loops with examples like summing numbers and FizzBuzz.
+
 Part 4 — Grade Form
 A web form that accepts a score, validates input, and displays the corresponding letter grade dynamically.
+
 Part 5 — Student Toolkit
 An interactive web tool with three views:
 
