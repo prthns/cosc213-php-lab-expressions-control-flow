@@ -1,7 +1,7 @@
 Course: COSC 213
 Lab Folder: /lab4/
 Lab Title: Lab 6
-Author: Ralph Juliano
+Author: Ralph Juliano, Christy VK, Tatsuki Sugawara
 Date: October 2025
 
 Course: COSC 213
