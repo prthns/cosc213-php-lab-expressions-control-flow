@@ -28,3 +28,7 @@ if ($age >= 19 && $hasId) echo "Entry allowed\n";
 $score = $_GET['score'] ?? null;
 $label = ($score !== null && $score >= 50) ? 'Pass' : 'Fail/NoScore';
 echo "Result: $label\n";
+
+// Checkpoint: Surprising example
+echo "\"5cats\" + 1 = ", "5cats" + 1, "\n"; 
+// Output: 6
