@@ -30,5 +30,5 @@ $label = ($score !== null && $score >= 50) ? 'Pass' : 'Fail/NoScore';
 echo "Result: $label\n";
 
 // Checkpoint: Surprising example
-echo "\"5cats\" + 1 = ", "5cats" + 1, "\n"; 
+echo "5cats" + 1; // outputs 6
 // Output: 6
