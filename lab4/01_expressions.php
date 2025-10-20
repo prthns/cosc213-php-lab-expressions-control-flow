@@ -23,7 +23,7 @@ var_dump($x === false); // false
 // 5) Logical
 $age = 19; $hasId = true;
 if ($age >= 19 && $hasId) echo "Entry allowed\n";
-
+    
 // 6) Ternary & null-coalescing
 $score = $_GET['score'] ?? null;
 $label = ($score !== null && $score >= 50) ? 'Pass' : 'Fail/NoScore';
