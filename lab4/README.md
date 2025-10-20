@@ -4,7 +4,10 @@ Lab Folder: /lab4/
 
 Lab Title: Lab 6
 
-Author: -------------------------
+Author: Christy Vattatharakooran Kunjachan
+Author: Ralph Juliano
+Author: Tatsuki Sugawara
+
 
 Date: October 2025
 
