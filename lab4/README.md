@@ -4,8 +4,6 @@ Lab Folder: /lab4/
 
 Lab Title: Lab 6
 
-Author: -------------------------
-
 Date: October 2025
 
 Overview
