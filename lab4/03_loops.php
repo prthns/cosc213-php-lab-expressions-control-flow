@@ -37,3 +37,39 @@ for ($i = 1; $i <= 30; $i++) {
   if ($i % 5 === 0) $out .= 'Buzz';
   echo $out !== '' ? $out : $i, PHP_EOL;
 }
+
+// 6) Stretch — Multiplication Table (1–10)
+// Print a title for the table
+echo "<h3>Multiplication Table (1–10)</h3>";
+
+// Start the HTML table
+echo "<table border='1' style='border-collapse: collapse; text-align: center;'>";
+
+// --- Header Row ---
+// This prints the top row showing numbers 1 to 10
+echo "<tr>";
+echo "<th>x</th>"; // top-left corner label
+for ($col = 1; $col <= 10; $col++) {
+  echo "<th>$col</th>";
+}
+echo "</tr>";
+
+// --- Table Body ---
+// Outer loop → rows
+for ($row = 1; $row <= 10; $row++) {
+  echo "<tr>"; // start a new row
+
+  // First cell in each row shows the row number
+  echo "<th>$row</th>";
+
+  // Inner loop → columns
+  for ($col = 1; $col <= 10; $col++) {
+    $product = $row * $col; // multiply row × column
+    echo "<td>$product</td>"; // print the result
+  }
+
+  echo "</tr>"; // end of this row
+}
+
+// End of table
+echo "</table>";
